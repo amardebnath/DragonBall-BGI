@@ -1,4 +1,14 @@
 # DragonBall-BGI
-A Dragon Ball Z story based 2D platformer game developed using BGI graphics library.
+A Dragon Ball Z story based 2D platformer game developed using BGI graphics library. The complete code is written in C++ language.
 
-![Drag Racing](https://www.cgcreativeshop.com/cache/sj_maxshop/817714e571713cf9d1463063fe5c9eb6.jpeg)
+### Some screenshots of the game
+#### Menu:
+![Menu](https://raw.githubusercontent.com/amar-deb/DragonBall-BGI/master/screenshots/menu.jpg)
+#### Conversation:
+![Conversation](https://raw.githubusercontent.com/amar-deb/DragonBall-BGI/master/screenshots/conversation.PNG)
+#### Gameplay 1:
+![Gameplay1](https://raw.githubusercontent.com/amar-deb/DragonBall-BGI/master/screenshots/gameplay1.PNG)
+#### Gameplay 2:
+![Gameplay2](https://raw.githubusercontent.com/amar-deb/DragonBall-BGI/master/screenshots/gameplay2.jpg)
+
+### Before running the source codes, install the graphics library as show in the following link - https://www.youtube.com/watch?v=FxCdMM9H66I
