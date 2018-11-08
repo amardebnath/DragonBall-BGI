@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1449852504 source:c:\users\user\desktop\combined\helper2.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+
+1449849856 source:c:\users\user\desktop\combined\main.cpp
+	<stdio.h>
+	"graphics.h"
+	"helper1.h"
+	"helper2.h"
+
+1449852504 source:c:\users\user\desktop\combined\part2.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper1.h"
+	"helper2.h"
+
+1449064736 c:\users\user\desktop\combined\helper2.h
+
+1449853440 source:c:\users\user\desktop\combined\helper1.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+	"winbgim.h"
+	"helper1.h"
+
+1449064736 c:\users\user\desktop\combined\helper1.h
+
+1449853304 source:c:\users\user\desktop\combined\part1.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper1.h"
+
+1449853440 source:c:\users\user\desktop\final code\helper1.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+	"winbgim.h"
+	"helper1.h"
+
+1449064736 c:\users\user\desktop\final code\helper1.h
+
+1449852504 source:c:\users\user\desktop\final code\helper2.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+
+1449849856 source:c:\users\user\desktop\final code\main.cpp
+	<stdio.h>
+	"graphics.h"
+	"helper1.h"
+	"helper2.h"
+
+1449064736 c:\users\user\desktop\final code\helper2.h
+
+1449853462 source:c:\users\user\desktop\final code\part1.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper1.h"
+
+1449852504 source:c:\users\user\desktop\final code\part2.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper1.h"
+	"helper2.h"
+
+1449853440 source:c:\users\dell\desktop\final code\helper1.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+	"winbgim.h"
+	"helper1.h"
+
+1449064736 c:\users\dell\desktop\final code\helper1.h
+
+1449852504 source:c:\users\dell\desktop\final code\helper2.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+
+1449849856 source:c:\users\dell\desktop\final code\main.cpp
+	<stdio.h>
+	"graphics.h"
+	"helper1.h"
+	"helper2.h"
+
+1449064736 c:\users\dell\desktop\final code\helper2.h
+
+1449853462 source:c:\users\dell\desktop\final code\part1.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper1.h"
+
+1449852504 source:c:\users\dell\desktop\final code\part2.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper1.h"
+	"helper2.h"
+
+1449852504 source:c:\users\dell\desktop\329\dragon ball z frieza saga\helper2.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+
+1449849856 source:c:\users\dell\desktop\329\dragon ball z frieza saga\main.cpp
+	<stdio.h>
+	"graphics.h"
+	"helper1.h"
+	"helper2.h"
+
+1449064736 c:\users\dell\desktop\329\dragon ball z frieza saga\helper1.h
+
+1449064736 c:\users\dell\desktop\329\dragon ball z frieza saga\helper2.h
+
+1449853462 source:c:\users\dell\desktop\329\dragon ball z frieza saga\part1.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper1.h"
+
+1449852504 source:c:\users\dell\desktop\329\dragon ball z frieza saga\part2.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper1.h"
+	"helper2.h"
+
+1449860143 source:c:\users\dell\desktop\329\dragon ball z frieza saga\helper1.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+	"winbgim.h"
+	"helper1.h"
+
+1449860143 source:c:\users\amor\onedrive\documents\recovery\00329\329\dragon ball z frieza saga\helper1.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+	"winbgim.h"
+	"helper1.h"
+
+1449064736 c:\users\amor\onedrive\documents\recovery\00329\329\dragon ball z frieza saga\helper1.h
+
+1449852504 source:c:\users\amor\onedrive\documents\recovery\00329\329\dragon ball z frieza saga\helper2.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+
+1449849856 source:c:\users\amor\onedrive\documents\recovery\00329\329\dragon ball z frieza saga\main.cpp
+	<stdio.h>
+	"graphics.h"
+	"helper1.h"
+	"helper2.h"
+
+1449064736 c:\users\amor\onedrive\documents\recovery\00329\329\dragon ball z frieza saga\helper2.h
+
+1449852504 source:c:\users\amor\onedrive\documents\recovery\00329\329\dragon ball z frieza saga\part2.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper1.h"
+	"helper2.h"
+
