@@ -12,6 +12,6 @@ A Dragon Ball Z story based 2D platformer game developed using BGI graphics libr
 ![Gameplay2](https://raw.githubusercontent.com/amar-deb/DragonBall-BGI/master/screenshots/gameplay2.jpg)
 
 ## Requirements
-Before running the source codes, install the graphics library as show in this ![video](https://www.youtube.com/watch?v=FxCdMM9H66I).
+Before running the source codes, install the graphics library as show in this [video](https://www.youtube.com/watch?v=FxCdMM9H66I).
 
-Also download the animation images from this ![link](https://drive.google.com/open?id=1QzGh-OHwWZYF4KKBjGzPmnCo6ldIrhxi) and put them in your project directory.
+Also download the animation images from this [link](https://drive.google.com/open?id=1QzGh-OHwWZYF4KKBjGzPmnCo6ldIrhxi) and put them in your project directory.
