@@ -13,4 +13,5 @@ A Dragon Ball Z story based 2D platformer game developed using BGI graphics libr
 
 ## Requirements
 Before running the source codes, install the graphics library as show in the following link - https://www.youtube.com/watch?v=FxCdMM9H66I
+
 Also download the animation images from the following link and put them in your project directory - https://drive.google.com/open?id=1QzGh-OHwWZYF4KKBjGzPmnCo6ldIrhxi
